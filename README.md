@@ -1,1 +1,3 @@
-Manuals for 
+# Manuals for Latex Shortcuts
+
+
